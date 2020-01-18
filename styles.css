@@ -3,6 +3,9 @@
                               text-align: center;
                           }
                           
+                          .btnWidth {
+                              width: 200px;
+                          }
                           .custom-footer2 {
                               clear: both;
                               position: fixed;
