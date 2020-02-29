@@ -4,11 +4,11 @@ $("#contactImg").on("click",function(){
 })
 
 $("#contactImg2").on("click",function(){
-    window.open("https://www.linkedin.com/in/chris-behrens-47348b192/", "_blank"); 
+    window.open("https://www.linkedin.com/in/chris-behrens", "_blank"); 
 })
 
 $("#contactImg3").on("click",function(){
-    window.open("Chris_Resume.pdf", "_blank"); 
+    window.open("Chris_Behrens_Resume.pdf", "_blank"); 
 })
 
 })
