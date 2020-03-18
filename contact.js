@@ -8,7 +8,7 @@ $("#contactImg2").on("click",function(){
 })
 
 $("#contactImg3").on("click",function(){
-    window.open("Chris_Behrens_Resume.pdf", "_blank"); 
+    window.open("ChrisBehrensResume.pdf", "_blank"); 
 })
 
 })
